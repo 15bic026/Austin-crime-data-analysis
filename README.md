@@ -5,12 +5,18 @@ In this project, I dropped the rows containing null values as I was still left w
 I created three new features using the original features of a dataset and then merged those features into the dataset, from these features I was able to extract some 
 important insights for Austin Police Department
 
+![Austin crime 2](https://user-images.githubusercontent.com/77584094/228087425-2f4c7aca-e2aa-41b2-b683-ab67fbee1bd3.png)
+![Austin crim3e3 ](https://user-images.githubusercontent.com/77584094/228089348-9619b4ed-e4ca-48f4-9d02-be9db7356f83.png)
+
+
 Out of the three created features I selected one feature as the target variable for the machine learning model to predict the crime rate of districts in Austin city. 
-I deployed various classification models like Logistic Regression, Decision Tree, SVM, Random Forest Classifier, XgBoost Classifier along with hyper-parameter tuning 
+I deployed classification models Logistic Regression and Decision Tree along with hyper-parameter tuning 
 and finally selected the model with best performance metrics.
 
 ![Screenshot_20221201_040923](https://user-images.githubusercontent.com/77584094/228087220-ddeefd01-6486-4618-a1d8-ed3caa8e83fb.png)
 
 
-I plotted various charts using Seaborn and Matplot lib to visualize the findings and insights, moreover, I also plotted the Austin map using GeoPandas to visualize the 
+I plotted the Austin map using GeoPandas to visualize which zipcodes fall under dangerous category and found that the central part of Austin is dangerous comaperd to the border parts of Austin compared to the 
 number of crimes in each district and found an insight for people as well as Austin Police Department
+![Screenshot 2023-03-25 225944](https://user-images.githubusercontent.com/77584094/228089617-d8ee8ebc-9875-4b37-adf6-afff0a516bbf.png)
+
