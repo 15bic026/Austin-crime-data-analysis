@@ -9,5 +9,8 @@ Out of the three created features I selected one feature as the target variable 
 I deployed various classification models like Logistic Regression, Decision Tree, SVM, Random Forest Classifier, XgBoost Classifier along with hyper-parameter tuning 
 and finally selected the model with best performance metrics.
 
+![Screenshot_20221201_040923](https://user-images.githubusercontent.com/77584094/228087220-ddeefd01-6486-4618-a1d8-ed3caa8e83fb.png)
+
+
 I plotted various charts using Seaborn and Matplot lib to visualize the findings and insights, moreover, I also plotted the Austin map using GeoPandas to visualize the 
 number of crimes in each district and found an insight for people as well as Austin Police Department
