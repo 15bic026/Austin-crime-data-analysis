@@ -17,7 +17,7 @@ Out of the three created features I selected one feature as the target variable 
 I deployed classification models Logistic Regression and Decision Tree along with hyper-parameter tuning 
 and finally selected the model with best performance metrics.
 
-![image](https://user-images.githubusercontent.com/77584094/228095052-64039166-8a08-4e00-ba89-91a6dd65ab08.png)
+![image](https://user-images.githubusercontent.com/77584094/228095324-a17a3298-16fd-45cd-bf91-95b21450750e.png)
 
 
 I plotted the Austin map using GeoPandas to visualize which zipcodes fall under dangerous category and found that the central part of Austin is dangerous comaperd to the border parts of Austin compared to the 
