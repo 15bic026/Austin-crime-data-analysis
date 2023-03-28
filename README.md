@@ -14,16 +14,14 @@ The created features are as follows
 I found that Inspector C has the highest average clearance time though having the second lowest number of cases involvement
 ![Austin crim3e3 ](https://user-images.githubusercontent.com/77584094/228089348-9619b4ed-e4ca-48f4-9d02-be9db7356f83.png)
 
+During Exploratory data analysis I found that On week days the number of crimes are higher comaperd to weekends
+![image](https://user-images.githubusercontent.com/77584094/228095969-3244e67b-9030-487a-918c-d68b8445aa28.png)
 
-Out of the three created features I selected one feature as the target variable for the machine learning model to predict the crime rate of districts in Austin city. 
+Out of the three created features I selected Dangerous_Zip as the target variable for the machine learning model to predict the crime rate of districts in Austin city. 
 I deployed classification models Logistic Regression and Decision Tree along with hyper-parameter tuning 
 and finally selected the model with best performance metrics.
 
 ![image](https://user-images.githubusercontent.com/77584094/228095324-a17a3298-16fd-45cd-bf91-95b21450750e.png)
-
-During Exploratory data analysis I found that On week days the number of crimes are higher comaperd to weekends
-![image](https://user-images.githubusercontent.com/77584094/228095969-3244e67b-9030-487a-918c-d68b8445aa28.png)
-
 
 I plotted the Austin map using GeoPandas to visualize which zipcodes fall under dangerous category and found that the central part of Austin is dangerous comaperd to the border parts of Austin compared to the 
 number of crimes in each district and found an insight for people as well as Austin Police Department
