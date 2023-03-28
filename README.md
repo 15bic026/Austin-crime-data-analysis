@@ -3,12 +3,13 @@
 In this project, I dropped the rows containing null values as I was still left with 90% of the data after dropping those rows.
 
 I created three new features using the original features of a dataset and then merged those features into the dataset, from these features I was able to extract some 
-important insights for Austin Police Department
+important insights for Austin Police Department.
 The created features are as follows
 1). Zip_Code_Crime_count: number of crimes as per the zipcodes
 2). Clearance time: Number of days taken to solve the crime case.
 3). Dangerous_Zip: 1 if the number of crimes in the zip code is greater than the median value, 0 otherwise.
 
+![image](https://user-images.githubusercontent.com/77584094/228095969-3244e67b-9030-487a-918c-d68b8445aa28.png)
 ![Austin crime 2](https://user-images.githubusercontent.com/77584094/228087425-2f4c7aca-e2aa-41b2-b683-ab67fbee1bd3.png)
 ![Austin crim3e3 ](https://user-images.githubusercontent.com/77584094/228089348-9619b4ed-e4ca-48f4-9d02-be9db7356f83.png)
 
