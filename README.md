@@ -18,6 +18,9 @@ I have plotted a bar chart to visualize the distribution of crimes across the zi
 
 
 
+
+
+
 I have calculated the Average clearance time and plotted subplots to compare the clearance time and Number of involvements in Crime cases for each inspector(Dis_APD)
 ![image](https://user-images.githubusercontent.com/77584094/228101473-c3172eb5-80fd-4d09-a7c1-d9222cf5c513.png)
 From the above plot, I found that Inspector C has the highest average clearance time though having the second lowest number of cases involvement
@@ -28,6 +31,8 @@ During Exploratory data analysis I found that On week days the number of crimes 
 ![image](https://user-images.githubusercontent.com/77584094/228095969-3244e67b-9030-487a-918c-d68b8445aa28.png)
 
 In the above plot, it is clear that the trend is decreasing, starting from Monday to Sunday
+
+
 
 
 
