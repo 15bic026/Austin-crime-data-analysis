@@ -13,9 +13,10 @@ The created features are as follows
 3). Dangerous_Zip: 1 if the number of crimes in the zip code is greater than the median value, 0 otherwise.
 
 
-
+I have plotted a bar chart to visualize the distribution of crimes across the zipcodes of Austin city
 ![Austin crime 2](https://user-images.githubusercontent.com/77584094/228087425-2f4c7aca-e2aa-41b2-b683-ab67fbee1bd3.png)
-The above plot shows the crime distribution across the zip codes of Austin city
+
+
 
 I have calculated the Average clearance time and plotted subplots to compare the clearance time and Number of involvements in Crime cases for each inspector(Dis_APD)
 ![image](https://user-images.githubusercontent.com/77584094/228101473-c3172eb5-80fd-4d09-a7c1-d9222cf5c513.png)
