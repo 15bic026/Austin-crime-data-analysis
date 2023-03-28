@@ -9,8 +9,9 @@ The created features are as follows
 2). Clearance time: Number of days taken to solve the crime case.
 3). Dangerous_Zip: 1 if the number of crimes in the zip code is greater than the median value, 0 otherwise.
 
-![image](https://user-images.githubusercontent.com/77584094/228095969-3244e67b-9030-487a-918c-d68b8445aa28.png)
 ![Austin crime 2](https://user-images.githubusercontent.com/77584094/228087425-2f4c7aca-e2aa-41b2-b683-ab67fbee1bd3.png)
+
+I found that Inspector C has the highest average clearance time though having the second lowest number of cases involvement
 ![Austin crim3e3 ](https://user-images.githubusercontent.com/77584094/228089348-9619b4ed-e4ca-48f4-9d02-be9db7356f83.png)
 
 
@@ -19,6 +20,9 @@ I deployed classification models Logistic Regression and Decision Tree along wit
 and finally selected the model with best performance metrics.
 
 ![image](https://user-images.githubusercontent.com/77584094/228095324-a17a3298-16fd-45cd-bf91-95b21450750e.png)
+
+During Exploratory data analysis I found that On week days the number of crimes are higher comaperd to weekends
+![image](https://user-images.githubusercontent.com/77584094/228095969-3244e67b-9030-487a-918c-d68b8445aa28.png)
 
 
 I plotted the Austin map using GeoPandas to visualize which zipcodes fall under dangerous category and found that the central part of Austin is dangerous comaperd to the border parts of Austin compared to the 
