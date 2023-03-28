@@ -15,7 +15,7 @@ The created features are as follows
 The above plot shows the crime distribution across the zip codes of Austin city
 
 I have calculated the Average clearance time and plotted subplots to compare the clearance time and Number of involvements in Crime cases for each inspector(Dis_APD)
-![Austin crim3e3 ](https://user-images.githubusercontent.com/77584094/228089348-9619b4ed-e4ca-48f4-9d02-be9db7356f83.png)
+![image](https://user-images.githubusercontent.com/77584094/228101473-c3172eb5-80fd-4d09-a7c1-d9222cf5c513.png)
 From the above plot, I found that Inspector C has the highest average clearance time though having the second lowest number of cases involvement
 
 During Exploratory data analysis I found that On week days the number of crimes are higher comaperd to weekends 
